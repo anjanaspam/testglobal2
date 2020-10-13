@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_shabana" label="Shabana" language="en" table="u_twinkle">
+    <sys_documentation element="u_foot" label="foot" language="en" table="u_twinkle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_shabana</element>
+            <element>u_foot</element>
             <help/>
             <hint/>
-            <label>Shabana</label>
+            <label>foot</label>
             <language>en</language>
             <name>u_twinkle</name>
-            <plural>Shabanas</plural>
+            <plural>foots</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-10-13 20:42:05</sys_created_on>
-            <sys_id>8fc4f8569137d010f8779d586843b241</sys_id>
+            <sys_created_on>2020-10-13 20:50:47</sys_created_on>
+            <sys_id>aac6f41a9137d010f8779d586843b23e</sys_id>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Shabana</sys_name>
+            <sys_name>foot</sys_name>
             <sys_package display_value="testglobal1" source="a33438d29137d010f8779d586843b212">a33438d29137d010f8779d586843b212</sys_package>
             <sys_policy/>
             <sys_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</sys_scope>
-            <sys_update_name>sys_documentation_u_twinkle_u_shabana_en</sys_update_name>
+            <sys_update_name>sys_documentation_u_twinkle_u_foot_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-13 20:47:10</sys_updated_on>
+            <sys_updated_on>2020-10-13 20:51:43</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
     </sys_documentation>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</claim_owner_scope>
-        <claim_timestamp>17523b780e20000001</claim_timestamp>
-        <metadata_update_name>sys_documentation_u_twinkle_u_shabana_en</metadata_update_name>
+        <claim_timestamp>17523bbad1b0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_twinkle_u_foot_en</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>testglobal2</previous_claim_name>
         <previous_claim_scope>d66438169137d010f8779d586843b2c2</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:47:10</sys_created_on>
-        <sys_id>29f530d69137d010f8779d586843b209</sys_id>
+        <sys_created_on>2020-10-13 20:51:43</sys_created_on>
+        <sys_id>d807fc1a9137d010f8779d586843b23a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:47:10</sys_updated_on>
+        <sys_updated_on>2020-10-13 20:51:43</sys_updated_on>
     </sys_claim>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</claim_owner_scope>
-        <claim_timestamp>17523b780bd0000001</claim_timestamp>
-        <metadata_update_name>sys_documentation_u_twinkle_u_shabana_en</metadata_update_name>
+        <claim_timestamp>17523bbad170000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_twinkle_u_foot_en</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>testglobal1</previous_claim_name>
         <previous_claim_scope>a33438d29137d010f8779d586843b212</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:47:10</sys_created_on>
-        <sys_id>e9f530d69137d010f8779d586843b209</sys_id>
+        <sys_created_on>2020-10-13 20:51:43</sys_created_on>
+        <sys_id>9c07fc1a9137d010f8779d586843b23a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:47:10</sys_updated_on>
+        <sys_updated_on>2020-10-13 20:51:43</sys_updated_on>
     </sys_claim>
 </record_update>

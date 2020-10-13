@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Twinkle" max_length="40" name="u_twinkle" type="collection">
-        <element label="Shabana" max_length="40" name="u_shabana" type="string"/>
+        <element label="foot" max_length="40" name="u_foot" type="string"/>
     </element>
 </database>
