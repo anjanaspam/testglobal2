@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Twinkle" max_length="40" name="u_twinkle" type="collection">
-        <element label="foot" max_length="40" name="u_foot" type="string"/>
-        <element label="Flight" max_length="40" name="u_flight" type="string"/>
+        <element label="meta" max_length="40" name="u_meta" type="string"/>
     </element>
 </database>

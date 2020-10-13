@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_foot" table="u_twinkle">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_meta" table="u_twinkle">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>foot</column_label>
+        <column_label>meta</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_foot</element>
+        <element>u_meta</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:50:46</sys_created_on>
-        <sys_id>1cb63c1a9137d010f8779d586843b2d9</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>foot</sys_name>
+        <sys_created_on>2020-10-13 21:08:47</sys_created_on>
+        <sys_id>96cab4de9137d010f8779d586843b2ec</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>meta</sys_name>
         <sys_package display_value="testglobal1" source="a33438d29137d010f8779d586843b212">a33438d29137d010f8779d586843b212</sys_package>
         <sys_policy/>
         <sys_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</sys_scope>
-        <sys_update_name>sys_dictionary_u_twinkle_u_foot</sys_update_name>
+        <sys_update_name>sys_dictionary_u_twinkle_u_meta</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:57:21</sys_updated_on>
+        <sys_updated_on>2020-10-13 21:11:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -75,16 +75,30 @@
     </sys_dictionary>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</claim_owner_scope>
-        <claim_timestamp>17523c0d69f0000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_u_twinkle_u_foot</metadata_update_name>
+        <claim_timestamp>17523cc9a310000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_u_twinkle_u_meta</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>testglobal2</previous_claim_name>
         <previous_claim_scope>d66438169137d010f8779d586843b2c2</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:57:21</sys_created_on>
-        <sys_id>7e4874da9137d010f8779d586843b2b7</sys_id>
+        <sys_created_on>2020-10-13 21:10:12</sys_created_on>
+        <sys_id>0f3bf0129177d010f8779d586843b213</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:57:21</sys_updated_on>
+        <sys_updated_on>2020-10-13 21:10:12</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</claim_owner_scope>
+        <claim_timestamp>17523cc9a2d0000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_u_twinkle_u_meta</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>testglobal1</previous_claim_name>
+        <previous_claim_scope>a33438d29137d010f8779d586843b212</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 21:10:12</sys_created_on>
+        <sys_id>cf3bf0129177d010f8779d586843b213</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 21:10:12</sys_updated_on>
     </sys_claim>
 </record_update>

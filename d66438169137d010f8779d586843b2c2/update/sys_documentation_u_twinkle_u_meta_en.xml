@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_flight" label="Flight" language="en" table="u_twinkle">
+    <sys_documentation element="u_meta" label="meta" language="en" table="u_twinkle">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_flight</element>
+            <element>u_meta</element>
             <help/>
             <hint/>
-            <label>Flight</label>
+            <label>meta</label>
             <language>en</language>
             <name>u_twinkle</name>
-            <plural>Flights</plural>
+            <plural>metas</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-10-13 20:57:55</sys_created_on>
-            <sys_id>cf6878da9137d010f8779d586843b22f</sys_id>
+            <sys_created_on>2020-10-13 21:08:47</sys_created_on>
+            <sys_id>5aeaf4de9137d010f8779d586843b288</sys_id>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Flight</sys_name>
+            <sys_name>meta</sys_name>
             <sys_package display_value="testglobal1" source="a33438d29137d010f8779d586843b212">a33438d29137d010f8779d586843b212</sys_package>
             <sys_policy/>
             <sys_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</sys_scope>
-            <sys_update_name>sys_documentation_u_twinkle_u_flight_en</sys_update_name>
+            <sys_update_name>sys_documentation_u_twinkle_u_meta_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-10-13 20:58:57</sys_updated_on>
+            <sys_updated_on>2020-10-13 21:10:12</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
     </sys_documentation>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</claim_owner_scope>
-        <claim_timestamp>17523c24ae80000001</claim_timestamp>
-        <metadata_update_name>sys_documentation_u_twinkle_u_flight_en</metadata_update_name>
+        <claim_timestamp>17523cc99aa0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_twinkle_u_meta_en</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>testglobal2</previous_claim_name>
         <previous_claim_scope>d66438169137d010f8779d586843b2c2</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:58:57</sys_created_on>
-        <sys_id>4aa8b8da9137d010f8779d586843b243</sys_id>
+        <sys_created_on>2020-10-13 21:10:12</sys_created_on>
+        <sys_id>cb3bbcde9137d010f8779d586843b27a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:58:57</sys_updated_on>
+        <sys_updated_on>2020-10-13 21:10:12</sys_updated_on>
     </sys_claim>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="testglobal2">d66438169137d010f8779d586843b2c2</claim_owner_scope>
-        <claim_timestamp>17523c24ae30000001</claim_timestamp>
-        <metadata_update_name>sys_documentation_u_twinkle_u_flight_en</metadata_update_name>
+        <claim_timestamp>17523cc99920000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_twinkle_u_meta_en</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>testglobal1</previous_claim_name>
         <previous_claim_scope>a33438d29137d010f8779d586843b212</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-10-13 20:58:57</sys_created_on>
-        <sys_id>0ea8b8da9137d010f8779d586843b243</sys_id>
+        <sys_created_on>2020-10-13 21:10:12</sys_created_on>
+        <sys_id>8f3bbcde9137d010f8779d586843b27a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-13 20:58:57</sys_updated_on>
+        <sys_updated_on>2020-10-13 21:10:12</sys_updated_on>
     </sys_claim>
 </record_update>
